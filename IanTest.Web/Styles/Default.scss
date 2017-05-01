@@ -1,0 +1,110 @@
+﻿$primaryColor:#2098D1;
+
+@media screen and (min-width: 721px) {
+    #headerContent {
+         top: -26px;
+    }   
+}
+
+body {   
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#header {
+    background: $primaryColor;
+    height: 800px;
+    color: white;
+    position: relative;
+}
+
+#headerContent {
+    position: relative;
+    padding: 15%;    
+    text-align: center;
+}
+
+#headerList {
+    list-style-type: none;
+    list-style-image: none;
+    list-style-position: outside;
+}
+
+#logoHome {        
+    list-style-type: none;
+    list-style-image: none;
+    list-style-position: outside;
+    text-decoration: none;
+}
+
+#logoSpan {
+    color: #fff;
+}
+
+.navbtnSpan {
+    color: #fff;
+}
+
+.navbtnSpan:hover {
+    color: #2f2f4a;
+}
+
+#navLogo:hover {
+     color: #2f2f4a;
+     background-color: #fff;
+
+     #logoSpan {
+         color: #2f2f4a;
+     }
+}
+
+#mainNav {
+    background: $primaryColor;
+    color: white;
+}
+
+#myNavbar {
+    ul {
+        li:hover {
+            background: #fff;
+            color: #2f2f4a;           
+         }
+    }
+}
+
+#myNavbar > ul > li:hover > a > span {
+    color: #2f2f4a
+}
+
+.navLink {
+    color: white;
+    text-decoration-line: none;    
+}
+
+.navlinkSpan {
+    color: #fff;
+}
+
+#navLogo {
+    color: #fff;
+}
+
+#portfolioButton {
+    color: white;
+    display: inline-block;
+    font-weight: 700; 
+    font-size: medium;
+    padding-top: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 8px;
+    position: relative;
+    text-transform: uppercase;
+    text-decoration: none;
+    width: 200px;
+    vertical-align: baseline;
+}
+
+#portfolioButton:hover{
+     color: #2f2f4a;
+}
