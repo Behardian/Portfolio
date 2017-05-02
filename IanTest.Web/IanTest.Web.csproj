@@ -96,7 +96,9 @@
   <ItemGroup>
     <Content Include="Content\Images\andersonthumbnail.png" />
     <Content Include="Content\Images\ggccLogo.png" />
+    <Content Include="Content\Images\ladslogo.png" />
     <Content Include="Content\Images\poslogo.png" />
+    <Content Include="Content\Images\vidlylarge.png" />
     <Content Include="Content\Images\vidlyLogo.png" />
     <Content Include="Content\Images\warriorsArena.png" />
     <Content Include="Content\Images\wino.png" />
@@ -149,6 +151,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Content\Images\LargeScreen\" />
+    <Folder Include="Content\Images\SmallScreen\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
