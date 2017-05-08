@@ -80,22 +80,6 @@ body {
     color: #fff;
 }
 
-#portfolioButton {
-    color: white;
-    display: inline-block;
-    font-weight: 700; 
-    font-size: medium;
-    padding-top: 16px;
-    padding-left: 16px;
-    padding-right: 16px;
-    padding-bottom: 8px;
-    position: relative;
-    text-transform: uppercase;
-    text-decoration: none;
-    width: 200px;
-    vertical-align: baseline;
-}
-
 #portfolioButton:hover{
      color: #2f2f4a;
 }
@@ -106,9 +90,7 @@ body {
 
 #portfolioContainer > div {
     height: 392px;
-    width: 380px;
-    margin-right: 10px;
-    margin-bottom: 10px; 
+    width: 380px;       
     position: relative;
     overflow: hidden;
     vertical-align: middle;
