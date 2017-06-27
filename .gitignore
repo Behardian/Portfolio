@@ -3,3 +3,5 @@
 ################################################################################
 
 /packages/BuildWebCompiler.1.11.326/tools
+/IanTest.Web/bin/roslyn
+/packages

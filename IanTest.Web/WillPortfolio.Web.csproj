@@ -107,6 +107,8 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="TheLadsBowtique.html" />
+    <Content Include="Vidly.html" />
     <Content Include="Styles\Default.scss" />
     <Content Include="Scripts\jquery-1.9.1.min.map" />
     <None Include="Web.Debug.config">
