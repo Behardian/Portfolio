@@ -30,3 +30,4 @@ C:\Users\Will\Source\Repos\PortfolioTest\IanTest.Web\bin\Microsoft.ApplicationIn
 C:\Users\Will\Source\Repos\PortfolioTest\IanTest.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Will\Source\Repos\PortfolioTest\IanTest.Web\obj\Debug\IanTest.Web.dll
 C:\Users\Will\Source\Repos\PortfolioTest\IanTest.Web\obj\Debug\IanTest.Web.pdb
+C:\Users\Will\Source\Repos\PortfolioTest\IanTest.Web\obj\Debug\WillPortfolio.Web.csprojResolveAssemblyReference.cache
